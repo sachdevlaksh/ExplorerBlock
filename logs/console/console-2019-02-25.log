@@ -1,0 +1,34 @@
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+<<<<<<<<<<<<<<<<<<<<<<<<<< Explorer Error >>>>>>>>>>>>>>>>>>>>>
+TypeError: Cannot read property 'size' of undefined
+    at Platform.initialize (/home/ubuntu/ExplorerBlock/app/platform/fabric/Platform.js:54:48)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Received kill signal, shutting down gracefully
+Closed out connections
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+
+
+Please open web browser to access ：http://localhost:8080/
+
+
+pid is 31108
+
+
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+
+Sync process is started for the network : [composer_default] and client : [client-1]
+<<<<<<<<<<<<<<<<<<<<<<<<<< Synchronizer Error >>>>>>>>>>>>>>>>>>>>>
+Error :  [ 'Failed to connect client peer, please check the configuration and peer status' ]
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing client processor >>>>>>>>>>>>>>>>>>>>>
+postgres://hppoc:password@127.0.0.1:5432/fabricexplorer
+<<<<<<<<<<<<<<<<<<<<<<<<<< Explorer Error >>>>>>>>>>>>>>>>>>>>>
+TypeError: Cannot read property 'size' of undefined
+    at Platform.initialize (/home/ubuntu/ExplorerBlock/app/platform/fabric/Platform.js:54:48)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Received kill signal, shutting down gracefully
+Closed out connections
+Received kill signal, shutting down gracefully
+<<<<<<<<<<<<<<<<<<<<<<<<<< Closing explorer  >>>>>>>>>>>>>>>>>>>>>
+Closed out connections

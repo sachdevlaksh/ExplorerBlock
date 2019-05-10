@@ -1,0 +1,51 @@
+[2019-02-25 07:06:50.555] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 07:27:30.461] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 07:27:39.604] [DEBUG] pgservice -  the getRowsBySQlNoCondtion  select c.id as id,c.name as channelName,c.blocks as blocks ,c.channel_genesis_hash as channel_genesis_hash,c.trans as transactions,c.createdt as createdat,c.channel_hash as channel_hash from channel c,
+        peer_ref_channel pc where c.channel_genesis_hash = pc.channelid and pc.peerid='peer0.org1.example.com' group by c.id ,c.name ,c.blocks  ,c.trans ,c.createdt ,c.channel_hash,c.channel_genesis_hash order by c.name 
+[2019-02-25 07:28:41.259] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 07:31:46.351] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 07:43:49.193] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 07:45:42.872] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 07:51:25.227] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 14:42:02.849] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 14:44:04.909] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 14:47:45.287] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 14:47:56.317] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 14:50:31.200] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 14:50:41.586] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 14:53:48.514] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 14:53:58.302] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 14:57:10.343] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 14:57:21.013] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 17:53:01.896] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 17:53:12.299] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 18:03:15.574] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 18:03:25.443] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 18:30:07.512] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 18:31:00.611] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 18:43:01.930] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 20:36:57.680] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 20:37:08.133] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 20:44:26.177] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 20:44:36.015] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 20:59:44.517] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 21:07:04.687] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 21:10:16.905] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 21:14:47.724] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 21:21:02.709] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 21:21:15.340] [DEBUG] pgservice -  the getRowsBySQlNoCondtion  select c.id as id,c.name as channelName,c.blocks as blocks ,c.channel_genesis_hash as channel_genesis_hash,c.trans as transactions,c.createdt as createdat,c.channel_hash as channel_hash from channel c,
+        peer_ref_channel pc where c.channel_genesis_hash = pc.channelid and pc.peerid='peer0.org1.example.com' group by c.id ,c.name ,c.blocks  ,c.trans ,c.createdt ,c.channel_hash,c.channel_genesis_hash order by c.name 
+[2019-02-25 21:22:01.315] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 21:22:13.954] [DEBUG] pgservice -  the getRowsBySQlNoCondtion  select c.id as id,c.name as channelName,c.blocks as blocks ,c.channel_genesis_hash as channel_genesis_hash,c.trans as transactions,c.createdt as createdat,c.channel_hash as channel_hash from channel c,
+        peer_ref_channel pc where c.channel_genesis_hash = pc.channelid and pc.peerid='peer0.org1.example.com' group by c.id ,c.name ,c.blocks  ,c.trans ,c.createdt ,c.channel_hash,c.channel_genesis_hash order by c.name 
+[2019-02-25 21:24:19.540] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 21:24:32.144] [DEBUG] pgservice -  the getRowsBySQlNoCondtion  select c.id as id,c.name as channelName,c.blocks as blocks ,c.channel_genesis_hash as channel_genesis_hash,c.trans as transactions,c.createdt as createdat,c.channel_hash as channel_hash from channel c,
+        peer_ref_channel pc where c.channel_genesis_hash = pc.channelid and pc.peerid='peer0.org1.example.com' group by c.id ,c.name ,c.blocks  ,c.trans ,c.createdt ,c.channel_hash,c.channel_genesis_hash order by c.name 
+[2019-02-25 21:25:49.110] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 21:26:01.793] [DEBUG] pgservice -  the getRowsBySQlNoCondtion  select c.id as id,c.name as channelName,c.blocks as blocks ,c.channel_genesis_hash as channel_genesis_hash,c.trans as transactions,c.createdt as createdat,c.channel_hash as channel_hash from channel c,
+        peer_ref_channel pc where c.channel_genesis_hash = pc.channelid and pc.peerid='peer0.org1.example.com' group by c.id ,c.name ,c.blocks  ,c.trans ,c.createdt ,c.channel_hash,c.channel_genesis_hash order by c.name 
+[2019-02-25 21:45:37.440] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 21:45:50.593] [DEBUG] pgservice -  the getRowsBySQlNoCondtion  select c.id as id,c.name as channelName,c.blocks as blocks ,c.channel_genesis_hash as channel_genesis_hash,c.trans as transactions,c.createdt as createdat,c.channel_hash as channel_hash from channel c,
+        peer_ref_channel pc where c.channel_genesis_hash = pc.channelid and pc.peerid='peer0.org1.example.com' group by c.id ,c.name ,c.blocks  ,c.trans ,c.createdt ,c.channel_hash,c.channel_genesis_hash order by c.name 
+[2019-02-25 21:47:59.134] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-02-25 21:48:09.199] [INFO] pgservice - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
